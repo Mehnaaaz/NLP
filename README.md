@@ -1,0 +1,5 @@
+SENTIMENT ANALYSIS ON CUSTOMER REVIEWS
+
+This project focuses on performing sentiment analysis on customer reviews using the IMDb movie reviews dataset. It aims to classify reviews into positive or negative sentiments using Natural Language Processing (NLP) techniques. The process involves data preprocessing steps such as cleaning, tokenization, stopword removal, and lemmatization. The text data is then transformed into numerical vectors using TF-IDF, capturing the importance of words across the dataset. A Multinomial Naive Bayes model is trained to predict sentiment, and its performance is evaluated based on metrics like accuracy and a classification report.
+
+By providing an automated tool for analyzing customer feedback, this project helps businesses gain valuable insights into customer opinions, which can guide decision-making and improve customer satisfaction. Future improvements include expanding the model to handle neutral sentiments, using larger and more diverse datasets for better accuracy, and experimenting with advanced machine learning models such as transformers to enhance performance.
